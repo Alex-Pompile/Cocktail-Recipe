@@ -1,0 +1,2 @@
+# Cocktail-Recipe
+ Cocktail Recipe is a web application designed to provide users with a simple yet efficient platform for discovering cocktail recipes. The project focuses on a minimalist interface, intuitive navigation, and essential features such as browsing recipes, managing ingredients, and receiving personalized recommendations. It aims to streamline the cocktail-making process for users, offering convenience without overwhelming complexity.
